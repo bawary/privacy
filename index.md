@@ -25,4 +25,4 @@ Any changes will be updated on this page.
 
 ## Contact
 For questions or support:  
-support@exentiq.com
+github.com/bawary
