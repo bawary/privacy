@@ -103,3 +103,93 @@
   <div style="font-weight:600; font-size:18px;">Nanohabit</div>
   <nav>
     <a hrefps</a>
+    <a hrefyPrivacy</a>
+    #contactContact</a>
+  </nav>
+</header>
+
+<section class="wrap">
+  <small>Apple Watch Apps</small>
+  <h1>Simple, private, and fast.</h1>
+
+  <p>
+    Nanohabit builds focused Apple Watch apps that respect your time and your data.
+    Watch2o helps you track daily water intake.
+    BioBattery shows your social energy level so you can decide on evening plans.
+  </p>
+
+  <a class="btn"</a>
+  #privacyPrivacy Policy</a>
+</section>
+
+<section id="apps" class="wrap">
+  <h2>Apps</h2>
+
+  <article class="card">
+    <div class="watch-icon">Watch2o</div>
+    <span class="tag">Health & Fitness</span>
+    <h3>Watch2o</h3>
+    <p>
+      Fast, simple water intake tracking for Apple Watch.
+      Optional HealthKit write for water data.
+      No external servers, no analytics.
+    </p>
+    <ul>
+      <li>One-tap water logging</li>
+      <li>Complications for quick access</li>
+      <li>Optional HealthKit integration</li>
+      <li>Data stays on your device</li>
+    </ul>
+    <p>
+      #App Store</a>
+      #privacyPrivacy</a>
+      https://github.com/bawarySupport</a>
+    </p>
+  </article>
+
+  <article class="card">
+    <div class="watch-icon">BioBattery</div>
+    <span class="tag">Health & Fitness</span>
+    <h3>BioBattery</h3>
+    <p>
+      BioBattery shows your current energy level so you can decide whether
+      you feel ready for social plans or need time to recharge.
+    </p>
+    <ul>
+      <li>Clear energy indicator</li>
+      <li>Designed for Apple Watch</li>
+      <li>No HealthKit required</li>
+      <li>Private and lightweight</li>
+    </ul>
+    <p>
+      #App Store</a>
+      <a class="btn" href="#    <a class="btn" href="https://github.com  </p>
+  </article>
+
+</section>
+
+<section id="privacy" class="wrap">
+  <h2>Privacy Policy</h2>
+  <p><em>Last updated: March 2026</em></p>
+
+  <p>
+    This privacy policy applies to both Watch2o and BioBattery. Neither app
+    collects, stores, or transmits personal data.
+  </p>
+
+  <h3>Health Data (Watch2o only)</h3>
+  <p>If enabled, Watch2o writes water intake to Apple Health. Data stays on your device only.</p>
+
+  <h3 id="contact">Contact</h3>
+  <p>
+    For support or questions:  
+    <a href="https://githubrygithub.com/bawary</a>
+  </p>
+</section>
+
+<footer>
+  © 2026 Nanohabit · All rights reserved.
+</footer>
+
+</body>
+</html>
