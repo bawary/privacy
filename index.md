@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -102,9 +101,6 @@
 <header>
   <div style="font-weight:600; font-size:18px;">Nanohabit</div>
   <nav>
-    <a hrefps</a>
-    <a hrefyPrivacy</a>
-    #contactContact</a>
   </nav>
 </header>
 
@@ -118,8 +114,7 @@
     BioBattery shows your social energy level so you can decide on evening plans.
   </p>
 
-  <a class="btn"</a>
-  #privacyPrivacy Policy</a>
+ 
 </section>
 
 <section id="apps" class="wrap">
@@ -140,11 +135,9 @@
       <li>Optional HealthKit integration</li>
       <li>Data stays on your device</li>
     </ul>
-    <p>
-      #App Store</a>
-      #privacyPrivacy</a>
-      https://github.com/bawarySupport</a>
-    </p>
+    
+      
+    
   </article>
 
   <article class="card">
@@ -162,8 +155,7 @@
       <li>Private and lightweight</li>
     </ul>
     <p>
-      #App Store</a>
-      <a class="btn" href="#    <a class="btn" href="https://github.com  </p>
+      
   </article>
 
 </section>
@@ -183,7 +175,7 @@
   <h3 id="contact">Contact</h3>
   <p>
     For support or questions:  
-    <a href="https://githubrygithub.com/bawary</a>
+   bawary.github.io
   </p>
 </section>
 
