@@ -156,9 +156,6 @@
     </ul>
     <p>
       
-  </article>
-
-</section>
 
 <section id="privacy" class="wrap">
   <h2>Privacy Policy</h2>
@@ -182,6 +179,3 @@
 <footer>
   © 2026 Nanohabit · All rights reserved.
 </footer>
-
-</body>
-</html>
